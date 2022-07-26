@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @
+- 👍 Meu email de contato é diego.desouzados.santos@escola.pr.gov.br
+- 👀 Eu estou intere em aprender a programar novos idiomas.
+- 🌱  Eu estou atualizands um programar recentemente a linguagem de JavaScript e Scrath.
